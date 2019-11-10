@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+.timer-value {
+  display: flex;
+  justify-content: center
+
+}
+.timer-value > h1{
+  padding: 20px
+}
+.timer-name {
+  display: flex;
+  justify-content: center
+}
+.timer-name >p{
+  padding:20px
+
+}
